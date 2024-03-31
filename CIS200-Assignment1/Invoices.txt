@@ -1,0 +1,63 @@
+                  Gabe's Computer Manufacturer
+                         -- INVOICE --        
+To: Wolverines
+Order Number: 12578
+
+Custom system configured as below.         Serial #: A00001
+------------------------------------------------------------------
+Item      Serial#            Specification                   Price
+CPU       C50021    2.70 GHz, 4 Cores                       199.00
+MEMORY    M60078    32GB, 2400MHz                            89.00
+STORAGE   S70231    960GB SSD, Xfer:3.20MB/s, MTBF:4200hrs  120.00
+                                                        ==========
+                                                            408.00
+
+
+                  Gabe's Computer Manufacturer
+                         -- INVOICE --        
+To: Lions
+Order Number: 12580
+
+Custom system configured as below.         Serial #: A00002
+------------------------------------------------------------------
+Item      Serial#            Specification                   Price
+CPU       C50123    2.10 GHz, 1 Cores                       239.00
+MEMORY    M62311    64GB, 3200MHz                           125.25
+STORAGE   S70165    986GB SSD, Xfer:12.00MB/s, MTBF:8600hrs  159.99
+                                                        ==========
+                                                            524.24
+
+
+                  Gabe's Computer Manufacturer
+                         -- INVOICE --        
+To: Red_Wings
+Order Number: 13006
+
+Custom system configured as below.         Serial #: A00003
+------------------------------------------------------------------
+Item      Serial#            Specification                   Price
+MEMORY    M63145    12GB, 1600MHz                            42.99
+CPU       C54386    3.80 GHz, 8 Cores                       379.99
+STORAGE   S70166    986GB SSD, Xfer:12.00MB/s, MTBF:8600hrs  159.99
+                                                        ==========
+                                                            582.97
+
+
+                  Gabe's Computer Manufacturer
+                         -- INVOICE --        
+To: Tigers
+Order Number: 14378
+
+Custom system configured as below.         Serial #: A00004
+------------------------------------------------------------------
+Item      Serial#            Specification                   Price
+STORAGE   S70232    960GB SSD, Xfer:3.20MB/s, MTBF:4200hrs  120.00
+STORAGE   S71644   2160GB HDD, Xfer:2.40MB/s, MTBF:2200hrs   99.99
+STORAGE   S71645   2160GB HDD, Xfer:2.40MB/s, MTBF:2200hrs   99.99
+MEMORY    M63145    12GB, 1600MHz                            42.99
+MEMORY    M63145    12GB, 1600MHz                            42.99
+CPU       C54465    3.80 GHz, 8 Cores                       379.99
+                                                        ==========
+                                                            785.95
+
+

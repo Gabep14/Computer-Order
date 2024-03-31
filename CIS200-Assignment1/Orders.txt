@@ -1,0 +1,44 @@
+﻿// Slash slash is a comment
+// Ignore blank lines
+// [EOF] Signifies an end of file to be processed - Ignore everthing after this
+// [ORDER]   Name      orderNum
+// [END_ORDER]
+// [CPU]     Serial    Price    Cost    ClockSpd  #Cores
+// [MEM]     Serial    Price    Cost    Size      Speed
+// [STORAGE] Serial    Price    Cost    Type      Cap     XferSpd      MTBF
+
+
+
+
+[ORDER]  Wolverines   12578
+[CPU]       C50021   199.00   89.50    2.7   4
+[MEMORY]    M60078   89.00    45.25    32    2400
+[STORAGE]   S70231   120.00   82.50    SSD   960   3.2   4200
+[END_ORDER]
+
+
+[ORDER]   Lions       12580
+[CPU]       C50123   239.00  94.50     2.1    1
+[MEMORY]    M62311   125.25  70.25     64    3200
+[STORAGE]   S70165   159.99  89.75     SSD    986   12.0 8600
+[END_ORDER]
+
+
+[ORDER]    Red_Wings   13006
+[MEMORY]    M63145    42.99   21.10    12     1600
+[CPU]       C54386    379.99  145.25   3.8    8
+[STORAGE]   S70166    159.99  89.75    SSD    986   12.0 8600
+[END_ORDER]
+
+
+[ORDER]     Tigers     14378
+[STORAGE]   S70232   120.00   82.50    SSD   960   3.2   4200
+[STORAGE]   S71644    99.99   64.50    HDD   2160  2.4   2200
+[STORAGE]   S71645    99.99   64.50    HDD   2160  2.4   2200
+[MEMORY]    M63145    42.99   21.10    12     1600
+[MEMORY]    M63145    42.99   21.10    12     1600
+[CPU]       C54465    379.99  145.25   3.8    8
+[END_ORDER]
+
+
+[EOF]
