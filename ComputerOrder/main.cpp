@@ -1,6 +1,5 @@
 //
 //  main.cpp
-//  CIS200-Assignment1
 //
 //  Created by Gabriel Push on 1/29/24.
 //
