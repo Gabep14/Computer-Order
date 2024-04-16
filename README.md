@@ -19,4 +19,4 @@ Computer Order is a C++ project where I created a system to process orders enter
 
 ## Skills
 
-C++, Xcode, Proper File Structure, Inheritance, Polymorphism, Virtual Functions, Operator Overloading, Opening, Reading, and Printing to Files
+C++, Xcode, Proper File Structure, Inheritance, Polymorphism, Virtual Functions, Operator Overloading, Opening, Reading, and Writing to Files
